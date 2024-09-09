@@ -1,0 +1,11 @@
+C:\Users\Dian\Downloads\BasicQueuingCashierr-master\BasicQueuingCashierr\bin\Debug\BasicQueuingCashierr.exe.config
+C:\Users\Dian\Downloads\BasicQueuingCashierr-master\BasicQueuingCashierr\bin\Debug\BasicQueuingCashierr.exe
+C:\Users\Dian\Downloads\BasicQueuingCashierr-master\BasicQueuingCashierr\bin\Debug\BasicQueuingCashierr.pdb
+C:\Users\Dian\Downloads\BasicQueuingCashierr-master\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.csproj.AssemblyReference.cache
+C:\Users\Dian\Downloads\BasicQueuingCashierr-master\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.CashierWindowQueueForm.resources
+C:\Users\Dian\Downloads\BasicQueuingCashierr-master\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.QueuingForm.resources
+C:\Users\Dian\Downloads\BasicQueuingCashierr-master\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.Properties.Resources.resources
+C:\Users\Dian\Downloads\BasicQueuingCashierr-master\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.csproj.GenerateResource.cache
+C:\Users\Dian\Downloads\BasicQueuingCashierr-master\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.csproj.CoreCompileInputs.cache
+C:\Users\Dian\Downloads\BasicQueuingCashierr-master\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.exe
+C:\Users\Dian\Downloads\BasicQueuingCashierr-master\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.pdb
